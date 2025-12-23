@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.hidden {
+  display: none;
+}
+
+#loading {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+
+#output img {
+  margin: 10px;
+  border-radius: 8px;
+}
+
+#error {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
